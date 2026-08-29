@@ -1,11 +1,21 @@
 [
     {
+        "title": "بطيخة",
+        "description": "لبمون",
+        "price": "5959595",
+        "whatsapp": "995825728",
+        "images": [
+            "https://raw.githubusercontent.com/haydraali00-creator/akar-database/refs/heads/main/images/img_1788012279425_c4bd1b.jpg",
+            "https://raw.githubusercontent.com/haydraali00-creator/akar-database/refs/heads/main/images/img_1788012283335_47192a.jpg"
+        ]
+    },
+    {
         "title": "اات",
         "description": "تاا",
         "price": "7786",
         "whatsapp": "963995825728",
         "images": [
-            "https:\/\/raw.githubusercontent.com\/haydraali00-creator\/akar-database\/refs\/heads\/main\/images\/img_1788011790449_bcd1d5.jpg"
+            "https://raw.githubusercontent.com/haydraali00-creator/akar-database/refs/heads/main/images/img_1788011790449_bcd1d5.jpg"
         ]
     }
 ]

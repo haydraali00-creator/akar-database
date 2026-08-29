@@ -1,5 +1,14 @@
 [
     {
+        "title": "ايفون",
+        "description": "عنقعق",
+        "price": "59999",
+        "whatsapp": "6265659",
+        "images": [
+            "https://raw.githubusercontent.com/haydraali00-creator/akar-database/refs/heads/main/images/img_1788012943083_72c04f.jpg"
+        ]
+    },
+    {
         "title": "تننت",
         "description": "عننه",
         "price": "5857",
